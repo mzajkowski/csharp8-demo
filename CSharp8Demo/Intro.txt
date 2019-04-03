@@ -1,0 +1,20 @@
+Always up-to-d8! What's new in C# 8?
+------------------------------------
+
+Marcin Zajkowski: @zajkowskimarcin on Twitter
+Works at The Cogworks // WOW School // UDFND
+
+Code is all available at: https://github.com/mzajkowski/csharp8-demo
+
+Agenda
+------
+
+1. Intro (Pending...)
+2. C# history in a nutshell (we all know it, right?!)
+3. C# (MS, Umbraco, We) <3 Open Source => Contribute()
+4. C# 8 - Preview!
+    - Nullable Reference Types
+	- Ranges and Indices
+    - Asynchronous Streams
+    - Patterns
+5. Outro
