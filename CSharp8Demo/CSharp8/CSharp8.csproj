@@ -8,4 +8,10 @@
     <StartupObject>CSharp8.Program</StartupObject>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="2. Ranges and Indicies\" />
+    <Folder Include="3. Asynchronous Streams\" />
+    <Folder Include="4. Patterns\" />
+  </ItemGroup>
+
 </Project>
