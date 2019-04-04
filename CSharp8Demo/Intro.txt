@@ -4,7 +4,8 @@ Always up-to-d8! What's new in C# 8?
 Marcin Zajkowski: @zajkowskimarcin on Twitter
 Works at The Cogworks // WOW School // UDFND
 
-Code is all available at: https://github.com/mzajkowski/csharp8-demo
+Code is all available at: https://github.com/mzajkowski/csharp8-demo/
+Slides: https://slides.com/zajkowskimarcin/always-up-to-d8/
 
 Agenda
 ------
