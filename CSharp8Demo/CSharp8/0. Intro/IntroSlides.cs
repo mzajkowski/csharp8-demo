@@ -1,7 +1,7 @@
 ﻿using System.ComponentModel;
 using System.Diagnostics;
 
-namespace CSharp8._0._Intro
+namespace CSharp8.Intro
 {
     [Description("[0] Intro")]
     class IntroSlides
