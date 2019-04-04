@@ -8,8 +8,4 @@
     <StartupObject>CSharp8.Program</StartupObject>
   </PropertyGroup>
 
-  <ItemGroup>
-    <Folder Include="4. Patterns\" />
-  </ItemGroup>
-
 </Project>
