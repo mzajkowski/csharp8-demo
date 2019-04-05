@@ -25,21 +25,14 @@ namespace CSharp8
 
         static void PrintNameLengthsFor(Person person)
         {
-            string first = person.FirstName;
-            string middle = person.MiddleName;
-            string last = person.LastName;
-
-            Console.WriteLine("First={0}; Last={1}; Middle={2}",
-                first.Length,
-                last.Length,
-                middle.Length);
+            Console.WriteLine($"{person.FirstName} {person.MiddleName[0]} {person.LastName}");
         }
     }
 
     class Person
     {
         public string FirstName { get; }
-        public string MiddleName { get; }
+        public string? MiddleName { get; }
         public string LastName { get; }
 
         public Person(string firstName, string lastName)
@@ -49,7 +42,7 @@ namespace CSharp8
             LastName = lastName;
         }
 
-        public Person(string firstName, string lastName, string middleName)
+        public Person(string firstName, string middleName, string lastName)
         {
             FirstName = firstName;
             LastName = lastName;
